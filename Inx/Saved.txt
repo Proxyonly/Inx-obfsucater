@@ -1,0 +1,32 @@
+Saved protection:
+———————————
+Renaming Scheme = MD5
+Anti Hook = true
+Junk = true
+Resources = true
+Anti ILDasm = true
+Outliner = true
+Ref Proxy = true
+Strings To Variables = true
+Strings Encoding = true
+Main Anti Crack = true
+Methods Encryption = true
+Anti VM = true
+Anti HTTP = true
+Anti Debug = true
+Mutation = true
+Control Flow = true
+Control Flow Preset = Safe
+Strings Preset = Fast
+Mutation Preset = Normal
+Local To Field = true
+Local To Field Preset = Field
+Renamer = true
+Types = true
+Properties = true
+Fields = true
+Events = true
+Methods = true
+Parameters = true
+Code Optimization = true
+Reduce Metadata = true
